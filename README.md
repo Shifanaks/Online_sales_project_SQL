@@ -51,3 +51,27 @@ This project performs Exploratory Data Analysis (EDA) and Sales Trend Analysis o
 
 ## Result Tables
 
+### Cleaned dataset
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/cleaned_online_sales_dataset.csv">Cleaned Dataset</a>
+
+### Monthly Revenue
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/monthly_revenue.csv">Monthly Revenue Detailst</a>
+
+### Monthly Revenue By Order Trend
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/monthly_revenue_by_order_trend.csv">Monthly Revenue By Order Trend Details</a>
+
+### Revenue Statistics
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/revenue_statistics.csv">Revenue Statistics Details</a>
+
+### Top Selling Products BY Revenue
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/top_selling_product_by_revenue.csv">Top Selling Products BY Revenue Details</a>
+
+### Highest Revenue Day
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/highest_revenue_day.csv">Highest Revenue Day Details</a>
+
+## Lowest Revenue Day
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/lowest_revenue_day.csv">Lowest Revenue Day Details</a>
+
+
+## SQL Script
+- <a href="https://github.com/Shifanaks/Online_sales_project_SQL/blob/main/Online_sales_SQL.sql">SQL Script</a>
